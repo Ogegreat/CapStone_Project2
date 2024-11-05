@@ -72,3 +72,6 @@ The following visual that draws the insights from the data are displayed below;
 
 ![image](https://github.com/user-attachments/assets/6f76eef0-0f1e-4dc5-a8bb-2e6275afe426)
 
+![image](https://github.com/user-attachments/assets/16d5fad1-41bc-48ef-a3c2-9624d2f1ab0d)
+
+
